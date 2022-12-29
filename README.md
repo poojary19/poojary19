@@ -12,7 +12,7 @@
 <p align="left">
   Here are some ideas to get you started:
 
-- 🔭 I’m currently intersted on web development
+
 - 🌱 I’m currently learning c++,java
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
