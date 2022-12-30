@@ -15,7 +15,6 @@
 
 - 🌱 I’m currently learning c++,java
 - 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...lekhapoojary702@gmail.com
 - ⚡ Fun fact: I think im funny
 -->
