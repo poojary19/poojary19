@@ -13,7 +13,7 @@
   Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning c++,c,java
+- 🌱 I’m currently learning c++,c,java,web,python
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: ...lekhapoojary702@gmail.com
 - ⚡ Fun fact: I think im funny
