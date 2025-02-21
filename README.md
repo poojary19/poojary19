@@ -1,5 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Lekha Poojary</h1>
-<img align="right" alt="Coding" width="400" src="C:\Users\lekha\Downloads\DALL·E 2025-02-21 12.27.26 - A vibrant animated-style illustration of a young girl coding on her laptop. She is sitting in a cozy room with a futuristic touch, surrounded by float.webp">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojary19&label=Profile%20views&color=0e75b6&style=flat" alt="poojary19" /> </p>
 
